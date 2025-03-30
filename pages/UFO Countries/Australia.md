@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 'UFO Phenomena in Australia: A Comprehensive Analysis'
+nav_exclude: true
 permalink: /ufo-countries/australia/
 date: '2025-03-30'
 description: 'Exploring UFO Phenomena in Australia: A Comprehensive Analysis within
