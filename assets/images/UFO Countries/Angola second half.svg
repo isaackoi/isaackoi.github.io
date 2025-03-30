@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="816" height="636" viewBox="0 0 816 636" style="fill:none;stroke:none;fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" version="1.1">
+  <style class="text-font-style fontImports" data-font-family="Arial"/>
+  <rect x="0" y="0" width="816" height="636" fill="#2c2c2c" stroke="none" id="programmatic_background"/>
+  <g id="g-root-tf_1lqjf46id8v7w-stroke-fill" data-item-order="-477360" transform="translate(8, 2)">
+    <g id="tf_1lqjf46id8v7w-fill" stroke="none" fill="#2c2c2c">
+      <g>
+        <path d="M 10 10L 790 10L 790 622L 10 622Z"/>
+      </g>
+    </g>
+    <defs>
+      <pattern id="crawlingPattern-00000024" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#00000024">
+        <use href="#crawlingSymbol"/>
+      </pattern>
+      <symbol id="crawlingSymbol">
+        <g>
+          <path d="M -12.5 12.5 l 13 -13 l 6 0 l -13 13 Z M -0.5 12.5 l 13 -13 l 6 0 l -13 13 Z M 11.5 12.5 l 13 -13 l 6 0 l -13 13 Z"/>
+        </g>
+      </symbol>
+      <pattern id="crawlingPattern-0000001b" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#0000001b">
+        <use href="#crawlingSymbol"/>
+      </pattern>
+      <pattern id="crawlingPattern-5f5f5f1a" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse" fill="#5f5f5f1a">
+        <use href="#crawlingSymbol"/>
+      </pattern>
+    </defs>
+  </g>
+  <g id="g-root--1.cu_sy_1czw7k6id7i0x-stroke-fill" data-item-order="-316218" transform="translate(32, 265.00390625)">
+    <g id="-1.cu_sy_1czw7k6id7i0x-stroke" fill="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="1">
+      <g>
+        <path d="M 10.001 143L 10 47L 67 47L 70 59L 322 59L 319 47L 367 47L 370 59L 622 59L 619 47L 646 47L 646 10L 742 95L 646.0017 180L 646 143L 619 143L 622 131L 370 131L 367 143L 319.001 143L 322.001 131L 70.001 131L 67.001 143L 10.001 143Z"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-4.cu_sy_144voeeid7fnu-stroke-fill" data-item-order="-316214" transform="translate(347, 386)">
+    <g id="4.cu_sy_144voeeid7fnu-stroke" fill="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="1">
+      <g>
+        <path d="M 307 10L 295 58L 43 58L 55 10L 307 10ZM 291.992188 70L 279.992188 118L 27.992188 118L 39.992188 70L 291.992188 70ZM 277 130L 25 130L 10 190L 262 190L 277 130Z"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-3.cu_sy_qtf612id7h8r-stroke-fill" data-item-order="-316210" transform="translate(347, 134)">
+    <g id="3.cu_sy_qtf612id7h8r-stroke" fill="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="1">
+      <g>
+        <path d="M 307 190L 295 142L 43 142L 55 190L 307 190ZM 291.992188 130L 279.992188 82L 27.992188 82L 39.992188 130L 291.992188 130ZM 277 70L 25 70L 10 10L 262 10L 277 70Z"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-2.cu_sy_mdlnwmid7i10-stroke-fill" data-item-order="-316206" transform="translate(47, 386)">
+    <g id="2.cu_sy_mdlnwmid7i10-stroke" fill="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="1">
+      <g>
+        <path d="M 307.000977 10L 295.000977 58L 43.000977 58L 55.000977 10L 307.000977 10ZM 291.993164 70L 279.993164 118L 27.993164 118L 39.993164 70L 291.993164 70ZM 277.001 130L 25.001 130L 10 190L 262 190L 277.001 130Z"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-1.cu_sy_92rmmeid7gg5-stroke-fill" data-item-order="-316202" transform="translate(47, 134)">
+    <g id="1.cu_sy_92rmmeid7gg5-stroke" fill="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke="#f4f4f4" stroke-width="1">
+      <g>
+        <path d="M 307 190L 295 142L 43 142L 55 190L 307 190ZM 291.992188 130L 279.992188 82L 27.992188 82L 39.992188 130L 291.992188 130ZM 277 70L 25 70L 10 10L 262 10L 277 70Z"/>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_limitedu_74mdiid7h8u-stroke-fill" data-item-order="0" transform="translate(80, 332)">
+    <g id="tx_limitedu_74mdiid7h8u-fill" stroke="none" fill="#b7b7b7">
+      <g>
+        <text style="font: bold 25px Arial, Helvetica, sans-serif; white-space: pre;" font-weight="bold" font-size="25px" font-family="Arial, Helvetica, sans-serif">
+          <tspan x="14.47" y="42" dominant-baseline="ideographic">Limited understanding of Angola's UFO phenomena</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_insuffic_1lws5zaid7imn-stroke-fill" data-item-order="0" transform="translate(416, 398)">
+    <g id="tx_insuffic_1lws5zaid7imn-fill" stroke="none" fill="#b7b7b7">
+      <g>
+        <text style="font: 15px Arial, Helvetica, sans-serif; white-space: pre;" font-size="15px" font-family="Arial, Helvetica, sans-serif">
+          <tspan x="15.48" y="30" dominant-baseline="ideographic">Insufficient scholarly attention</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_lackoffu_1hhl4xyid7g94-stroke-fill" data-item-order="0" transform="translate(497, 458)">
+    <g id="tx_lackoffu_1hhl4xyid7g94-fill" stroke="none" fill="#b7b7b7">
+      <g>
+        <text style="font: 15px Arial, Helvetica, sans-serif; white-space: pre;" font-size="15px" font-family="Arial, Helvetica, sans-serif">
+          <tspan x="14.25" y="30" dominant-baseline="ideographic">Lack of funding</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_research_1d1rmtiid7h1d-stroke-fill" data-item-order="0" transform="translate(410, 524)">
+    <g id="tx_research_1d1rmtiid7h1d-fill" stroke="none" fill="#b7b7b7">
+      <g>
+        <text style="font: bold 20px Arial, Helvetica, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Arial, Helvetica, sans-serif">
+          <tspan x="15.66" y="33" dominant-baseline="ideographic">Research Barriers</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_modernin_zqb4g6id7ima-stroke-fill" data-item-order="0" transform="translate(464, 278)">
+    <g id="tx_modernin_zqb4g6id7ima-fill" stroke="none" fill="#b7b7b7">
+      <g>
+        <text style="font: 15px Arial, Helvetica, sans-serif; white-space: pre;" font-size="15px" font-family="Arial, Helvetica, sans-serif">
+          <tspan x="13.91" y="30" dominant-baseline="ideographic">Modern interpretations</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_traditio_qvalaeid7g97-stroke-fill" data-item-order="0" transform="translate(473, 218)">
+    <g id="tx_traditio_qvalaeid7g97-fill" stroke="none" fill="#b7b7b7">
+      <g>
+        <text style="font: 15px Arial, Helvetica, sans-serif; white-space: pre;" font-size="15px" font-family="Arial, Helvetica, sans-serif">
+          <tspan x="22.98" y="30" dominant-baseline="ideographic">Traditional beliefs</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_cultural_dju2x2id7hu4-stroke-fill" data-item-order="0" transform="translate(386, 152)">
+    <g id="tx_cultural_dju2x2id7hu4-fill" stroke="none" fill="#b7b7b7">
+      <g>
+        <text style="font: bold 20px Arial, Helvetica, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Arial, Helvetica, sans-serif">
+          <tspan x="16.39" y="33" dominant-baseline="ideographic">Cultural Perceptions</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_archival_940ksmid7imd-stroke-fill" data-item-order="0" transform="translate(164, 398)">
+    <g id="tx_archival_940ksmid7imd-fill" stroke="none" fill="#b7b7b7">
+      <g>
+        <text style="font: 15px Arial, Helvetica, sans-serif; white-space: pre;" font-size="15px" font-family="Arial, Helvetica, sans-serif">
+          <tspan x="13.11" y="30" dominant-baseline="ideographic">Archival access issues</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_limitedr_1uualhiid7gue-stroke-fill" data-item-order="0" transform="translate(197, 458)">
+    <g id="tx_limitedr_1uualhiid7gue-fill" stroke="none" fill="#b7b7b7">
+      <g>
+        <text style="font: 15px Arial, Helvetica, sans-serif; white-space: pre;" font-size="15px" font-family="Arial, Helvetica, sans-serif">
+          <tspan x="13.45" y="30" dominant-baseline="ideographic">Limited records</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_document_1hiu346id7ifb-stroke-fill" data-item-order="0" transform="translate(134, 512)">
+    <g id="tx_document_1hiu346id7ifb-fill" stroke="none" fill="#b7b7b7">
+      <g>
+        <text style="font: bold 20px Arial, Helvetica, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Arial, Helvetica, sans-serif">
+          <tspan x="18.44" y="33" dominant-baseline="ideographic">Documentation </tspan>
+          <tspan x="57.3" y="57" dominant-baseline="ideographic">Challenges</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_colonial_1d3n22uid7g1s-stroke-fill" data-item-order="0" transform="translate(197, 218)">
+    <g id="tx_colonial_1d3n22uid7g1s-fill" stroke="none" fill="#b7b7b7">
+      <g>
+        <text style="font: 15px Arial, Helvetica, sans-serif; white-space: pre;" font-size="15px" font-family="Arial, Helvetica, sans-serif">
+          <tspan x="14.27" y="30" dominant-baseline="ideographic">Colonial legacy</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_politica_zs6jpiid7hmp-stroke-fill" data-item-order="0" transform="translate(188, 278)">
+    <g id="tx_politica_zs6jpiid7hmp-fill" stroke="none" fill="#b7b7b7">
+      <g>
+        <text style="font: 15px Arial, Helvetica, sans-serif; white-space: pre;" font-size="15px" font-family="Arial, Helvetica, sans-serif">
+          <tspan x="22.45" y="30" dominant-baseline="ideographic">Political instability</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_historic_m7cx1iid8uma-stroke-fill" data-item-order="0" transform="translate(110, 152)">
+    <g id="tx_historic_m7cx1iid8uma-fill" stroke="none" fill="#b7b7b7">
+      <g>
+        <text style="font: bold 20px Arial, Helvetica, sans-serif; white-space: pre;" font-weight="bold" font-size="20px" font-family="Arial, Helvetica, sans-serif">
+          <tspan x="16.84" y="33" dominant-baseline="ideographic">Historical Context</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g id="g-root-tx_analyzin_dbpwsmid8vez-stroke-fill" data-item-order="0" transform="translate(140, 37.999996185302734)">
+    <g id="tx_analyzin_dbpwsmid8vez-fill" stroke="none" fill="#f4f4f4">
+      <g>
+        <text style="font: bold 25px Arial, Helvetica, sans-serif; white-space: pre;" font-weight="bold" font-size="25px" font-family="Arial, Helvetica, sans-serif">
+          <tspan x="16.61" y="42" dominant-baseline="ideographic">Analyzing the UFO Phenomena in Angola</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
